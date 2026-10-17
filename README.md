@@ -50,7 +50,7 @@ AI-powered road damage detection and reporting dashboard built with Python and F
 
 ## Author
 
-GitHub: [@subi05237asmi](https://github.com/subi05237asmi)
+GitHub: [@mdyaseen72071-dev](https://github.com/mdyaseen72071-dev)
 
 ## Dashboard Preview
 
