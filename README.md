@@ -48,10 +48,6 @@ AI-powered road damage detection and reporting dashboard built with Python and F
 - Uploaded photos and generated AI analysis results are stored locally.
 - AI detections are predictions and should be reviewed before making maintenance decisions.
 
-## Author
-
-GitHub: [@mdyaseen72071-dev](https://github.com/mdyaseen72071-dev)
-
 ## Dashboard Preview
 
 ![InfraSense AI Dashboard](dashboard.png)
